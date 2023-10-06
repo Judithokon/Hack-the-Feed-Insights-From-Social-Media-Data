@@ -70,3 +70,5 @@ These analyses provide actionable insights and recommendations to optimize socia
 In essence, "Hack the Feed: Insights From Social Media Data" has been a catalyst for growth and innovation in the digital marketing landscape. Armed with skills and insights, the creator is ready to revolutionize digital engagement, share knowledge, and shape the future of the industry.
 
 ![Alt Text](https://github.com/Judithokon/Hack-the-Feed-Insights-From-Social-Media-Data/blob/main/Dashboard.png)
+
+by Judith Okon
